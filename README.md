@@ -97,7 +97,7 @@ LogiAI is a professional-grade SaaS platform that combines advanced AI reasoning
 
 | 📊 **Dashboard Overview** | 🔬 **Research Agent** | 🎨 **Brand Configuration** |
 |:-------------------------:|:---------------------:|:---------------------------:|
-| ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard+Screenshot) | ![Research](https://via.placeholder.com/300x200?text=Research+Agent) | ![Brand](https://via.placeholder.com/300x200?text=Brand+Config) |
+| ![Dashboard](https://www.logiai.tech/app-screenshot.png) | ![Research](https://via.placeholder.com/300x200?text=Research+Agent) | ![Brand](https://www.logiai.tech/LogiAI.png) |
 | Centralized workspace with intelligent project management | Live research with source verification and synthesis | Custom voice, tone, and domain expertise settings |
 
 ---
